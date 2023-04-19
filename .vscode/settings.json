@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3e7badbd-a685-41e1-884f-dc8432896507/resourceGroups/simplegroup/providers/Microsoft.Web/sites/SharedMemories",
+    "appService.deploySubpath": "."
+}
